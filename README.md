@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/bhumi-jain-55b12621a)  
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github)](https://github.com/bhumi-125)  
-📫 Email: [bhumijain2604@gmail.com](mailto:bhumijain2604@gmail.com)
+📫 Email: [bhumijain2603@gmail.com](mailto:bhumijain2603@gmail.com)
 
 ---
 

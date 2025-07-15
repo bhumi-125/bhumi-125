@@ -30,7 +30,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -78,6 +77,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 - 🌱 I grow code and plants (literally—ask me about my eco poly house app 😉)
 - 🧩 Debugging is my version of meditation
 - 🔍 I read docs like novels
-- 🗣️ My rubber duck is my best problem-solving buddy
+- 🗣️ Self-explanatory is my go-to debugging tool.
 - ☕ Code fuel: coffee, vibes, and deadlines
  
